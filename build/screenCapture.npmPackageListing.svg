@@ -1,0 +1,29 @@
+<svg height="414" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="414" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-22 01:14:10 +0000  1425530 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 01:14:10 +0000      998 bytes  HISTORY.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 01:14:10 +0000     1115 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 01:14:10 +0000     6392 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 01:14:10 +0000     6939 bytes  assets/index.css</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 01:14:10 +0000     6980 bytes  dist/rc-slider.css</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 01:14:10 +0000    13161 bytes  dist/rc-slider.css.map</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 01:14:10 +0000   269708 bytes  dist/rc-slider.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 01:14:10 +0000   339782 bytes  dist/rc-slider.js.map</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 01:14:10 +0000     5166 bytes  dist/rc-slider.min.css</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 01:14:10 +0000       94 bytes  dist/rc-slider.min.css.map</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 01:14:10 +0000    94482 bytes  dist/rc-slider.min.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-22 01:14:10 +0000   631803 bytes  dist/rc-slider.min.js.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-22 01:14:10 +0000     2312 bytes  lib/Handle.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-22 01:14:10 +0000    13587 bytes  lib/Range.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-22 01:14:10 +0000     5833 bytes  lib/Slider.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-22 01:14:10 +0000     2698 bytes  lib/common/Marks.js</tspan>
+<tspan x="10" y="298"> 17.  2017-04-22 01:14:10 +0000     2252 bytes  lib/common/Steps.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-22 01:14:10 +0000     1074 bytes  lib/common/Track.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-22 01:14:10 +0000    11993 bytes  lib/common/createSlider.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-22 01:14:10 +0000     3742 bytes  lib/createSliderWithTooltip.js</tspan>
+<tspan x="10" y="362"> 21.  2017-04-22 01:14:10 +0000      844 bytes  lib/index.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-22 01:14:10 +0000     2844 bytes  lib/utils.js</tspan>
+<tspan x="10" y="394"> 23.  2017-04-22 01:14:10 +0000     1731 bytes  package.json</tspan>
+</text>
+</svg>
